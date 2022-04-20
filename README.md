@@ -13,4 +13,7 @@ Alteryx ETL Model:
 
 
 Data Model:
+
+
+
 ![Boston DM](https://user-images.githubusercontent.com/90269638/164327826-8309eec9-4327-4452-858d-3d8b14e641be.jpeg)
