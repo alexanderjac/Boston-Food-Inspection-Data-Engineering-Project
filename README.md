@@ -2,7 +2,9 @@
 Technology Used:
 
 Alteryx
+
 ER Studio (Data Modeling)
+
 Azure SQL
 
 Designed and developed Dimensional Data Model for public data 'Boston Food Inspection' and performed ETL, cleansing operations and converted csv data to load into dimensional model with respective Dimensions and Fact table as Star Schema with the help of data preparation tool Alteryx
